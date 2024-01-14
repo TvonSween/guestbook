@@ -1,0 +1,14 @@
+C:\Users\Tess\source\repos\GuestbookMiniProjectApp\GuestbookMiniProject\bin\Debug\net6.0\GuestbookMiniProject.exe
+C:\Users\Tess\source\repos\GuestbookMiniProjectApp\GuestbookMiniProject\bin\Debug\net6.0\GuestbookMiniProject.deps.json
+C:\Users\Tess\source\repos\GuestbookMiniProjectApp\GuestbookMiniProject\bin\Debug\net6.0\GuestbookMiniProject.runtimeconfig.json
+C:\Users\Tess\source\repos\GuestbookMiniProjectApp\GuestbookMiniProject\bin\Debug\net6.0\GuestbookMiniProject.dll
+C:\Users\Tess\source\repos\GuestbookMiniProjectApp\GuestbookMiniProject\bin\Debug\net6.0\GuestbookMiniProject.pdb
+C:\Users\Tess\source\repos\GuestbookMiniProjectApp\GuestbookMiniProject\obj\Debug\net6.0\GuestbookMiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tess\source\repos\GuestbookMiniProjectApp\GuestbookMiniProject\obj\Debug\net6.0\GuestbookMiniProject.AssemblyInfoInputs.cache
+C:\Users\Tess\source\repos\GuestbookMiniProjectApp\GuestbookMiniProject\obj\Debug\net6.0\GuestbookMiniProject.AssemblyInfo.cs
+C:\Users\Tess\source\repos\GuestbookMiniProjectApp\GuestbookMiniProject\obj\Debug\net6.0\GuestbookMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\Tess\source\repos\GuestbookMiniProjectApp\GuestbookMiniProject\obj\Debug\net6.0\GuestbookMiniProject.dll
+C:\Users\Tess\source\repos\GuestbookMiniProjectApp\GuestbookMiniProject\obj\Debug\net6.0\refint\GuestbookMiniProject.dll
+C:\Users\Tess\source\repos\GuestbookMiniProjectApp\GuestbookMiniProject\obj\Debug\net6.0\GuestbookMiniProject.pdb
+C:\Users\Tess\source\repos\GuestbookMiniProjectApp\GuestbookMiniProject\obj\Debug\net6.0\GuestbookMiniProject.genruntimeconfig.cache
+C:\Users\Tess\source\repos\GuestbookMiniProjectApp\GuestbookMiniProject\obj\Debug\net6.0\ref\GuestbookMiniProject.dll
